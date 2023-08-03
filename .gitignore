@@ -1,0 +1,34 @@
+# Ignore all files in the 'venv' directory (created by virtualenv)
+venv/
+
+# Ignore all files in the 'env' directory (created by virtualenvwrapper)
+env/
+
+# Ignore all files in the '__pycache__' directory
+__pycache__/
+
+# Ignore the 'db.sqlite3' file (created by Django)
+db.sqlite3
+
+# Ignore the 'media' directory (for uploaded files)
+media/
+
+# Ignore the 'staticfiles' directory (for static files collected by Django)
+staticfiles/
+
+# Ignore the '.vscode' directory (created by Visual Studio Code)
+.vscode/
+
+# Ignore any log files
+*.log
+
+# Ignore any compiled Python files
+*.pyc
+
+# Ignore any compiled Python files in '__pycache__' directories
+__pycache__/*.pyc
+
+# Ignore the 'local_settings.py' file (used for local development settings)
+local_settings.py
+
+# Ignore any other files or directories specific to your local environment or development tools
