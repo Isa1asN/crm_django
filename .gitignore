@@ -32,3 +32,6 @@ __pycache__/*.pyc
 local_settings.py
 
 # Ignore any other files or directories specific to your local environment or development tools
+
+
+mydb.py
